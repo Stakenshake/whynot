@@ -23,6 +23,7 @@
   "files": [
     "bin",
     "src",
+    "assets",
     "docs/design.md",
     "docs/design.zh-CN.md",
     "docs/findings.md",

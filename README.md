@@ -1,68 +1,66 @@
-# whynot
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/icon-dark.svg">
+    <img src="assets/icon-light.svg" alt="whynot" width="88">
+  </picture>
+</p>
 
-**Record what you ruled out — and why — so your coding agent stops re-suggesting it.**
+<h1 align="center">whynot</h1>
 
-Your agent starts every session from zero. The approach you rejected last week,
-it will propose again this week. Three months from now, you will not remember
-why you rejected it either.
+<p align="center">
+  <b>Your agent keeps re-suggesting what you already rejected.</b><br>
+  Record the rejection once. It expires. Your agent stops bringing it up.
+</p>
 
-Memory tools record **what you did**. That is already in your code, your
-commits, and your pull requests. What exists nowhere is **why you did not do
-something** — and it lives only in your head, decaying.
+<p align="center">
+  <a href="https://www.npmjs.com/package/whynot-cli"><img src="https://img.shields.io/npm/v/whynot-cli?style=flat-square&color=111111&label=npm" alt="npm"></a>
+  <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT">
+  <img src="https://img.shields.io/badge/node-%E2%89%A520-brightgreen?style=flat-square" alt="node 20+">
+  <img src="https://img.shields.io/badge/tests-29%20passing-brightgreen?style=flat-square" alt="29 tests passing">
+  <img src="https://img.shields.io/badge/dependencies-0-brightgreen?style=flat-square" alt="zero dependencies">
+</p>
 
-`whynot` is a folder of Markdown files in your repo, plus a thin MCP server.
+<p align="center">
+  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat-square" alt="platforms">
+  <img src="https://img.shields.io/badge/MCP-compatible-8A2BE2?style=flat-square" alt="MCP compatible">
+  <img src="https://img.shields.io/badge/Claude%20Code%20%C2%B7%20Codex%20%C2%B7%20Cursor%20%C2%B7%20Gemini%20CLI-supported-informational?style=flat-square" alt="agent support">
+</p>
+
+<p align="center">
+  <a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a>
+</p>
 
 ---
 
-## What we found
+<p align="center">
+  <a href="#the-problem">The problem</a> ·
+  <a href="#install">Install</a> ·
+  <a href="#quick-start">Quick start</a> ·
+  <a href="#how-it-works">How it works</a> ·
+  <a href="#what-the-evidence-says">Evidence</a> ·
+  <a href="#docs">Docs</a> ·
+  <a href="#license">License</a>
+</p>
 
-Six experiments, three model families, mostly n=20 per cell. Full write-ups and
-scripts are in [`docs/`](docs/) and [`experiments/`](experiments/).
+---
 
-### Age does not matter. Presence does
+## The problem
 
-A recorded decision is followed at the same rate whether it was written a month
-ago or seven years ago:
+You tried Redis for session storage. It failed at 8 seconds during a regional
+outage, so you moved to Postgres.
 
-| Age of the decision | Recommends the rejected option |
-|---|---|
-| none (baseline) | 100% |
-| 30 days | **0%** |
-| 1 year | **0%** |
-| 7 years | **0%** |
-| 7 years, expired and hidden | **100%** |
+Three weeks later, in a new session, your agent suggests Redis.
 
-Same decision text every time; only the `created` date changed. The model does
-not discount old records — it treats every record as current.
+You explain again. A month after that you switch from Claude Code to Codex, and
+explain a third time. Six months later you no longer remember why Redis was
+rejected — and neither does anyone else on the team.
 
-Adding "this is old, be skeptical" to the prompt did not help. Hiding the
-expired entry did. That is why expiry is the core of this tool.
+**Code remembers what you chose. Nothing remembers what you rejected.**
 
-### Recording a rejection changes the answer
-
-At n=20 across three families, a recorded rejection moved the recommendation by
-78–87 percentage points (Fisher p < 0.0001).
-
-### Two honest qualifications
-
-- **Not every model obeys equally.** With real code in context, one model
-  inferred the answer from the repository and ignored the record; another still
-  preferred the rejected option until the record stopped it.
-- **The stated reason matters more than the date.** When the record said "the
-  team did not know TypeScript", about one in five responses attacked that
-  premise and recommended TypeScript anyway. When it said "this project's
-  fields change constantly", obedience was total. A reason that names a
-  *condition* invites re-checking; a reason that states a *property* does not.
-
-### What is not tested
-
-**We have not measured whether this helps a developer in real use.** Every
-experiment here is a controlled, single-turn task. The number that matters —
-how often an agent re-proposes something you already rejected, over weeks of
-real work — has not been measured, and this project does not claim it.
-
-The claim we do make: *the mechanism works under test, and the scripts are here
-so you can check.*
+Memory tools record what happened. That is already in your commits, your pull
+requests, and the code itself. `whynot` records the other half: the options you
+ruled out, and the reason, in a file your agent reads before it proposes
+anything.
 
 ---
 
@@ -72,82 +70,63 @@ so you can check.*
 npx whynot-cli init
 ```
 
-Then paste the block from [`AGENTS.snippet.md`](AGENTS.snippet.md) into your
-`AGENTS.md` or `CLAUDE.md`, and register the MCP server.
-
-Node 20+. Nothing else. No global install, no account, no telemetry.
-
-### Register the MCP server
-
-The same shape works for Claude Code, Claude Desktop, Cursor, and most other
-MCP clients:
-
-```json
-{
-  "mcpServers": {
-    "whynot": {
-      "command": "npx",
-      "args": ["-y", "whynot-cli", "mcp"]
-    }
-  }
-}
-```
+Nothing to install globally, no account, no telemetry. Node 20+ is the only
+requirement.
 
 ---
 
-## Use
+## Quick start
+
+### 1. See what will never expire
+
+`audit` is read-only. It scans your existing `AGENTS.md`, `CLAUDE.md`, and
+`.cursor/rules` for absolute rules that state no condition — the ones that will
+be obeyed forever.
 
 ```bash
-npx whynot-cli audit              # scan your existing rules for ones that will never expire
-npx whynot-cli init               # create .decisions/
-npx whynot-cli add --title "..." --why "..."
-npx whynot-cli check redis        # is this already settled?
-npx whynot-cli stale              # what needs a human decision
-npx whynot-cli renew 0001         # it still holds — extend it
-npx whynot-cli retire 0002        # it no longer holds — archive it
+npx whynot-cli audit
 ```
-
-Most of the time you will not run these by hand. The agent calls
-`decisions_record` when it discovers something does not work, and
-`decisions_check` before proposing an approach.
-
-### Start with `audit`
-
-`audit` is read-only. It scans `AGENTS.md`, `CLAUDE.md`, `GEMINI.md`,
-`.cursor/rules/*`, and `.github/copilot-instructions.md` for absolute rules
-that state no condition — the kind that get obeyed forever.
 
 ```
 Scanned 2 agent config files:
   AGENTS.md  (last changed 412d ago)
   CLAUDE.md  (last changed 8d ago)
 
-4 rules look like permanent constraints:
+3 rules look like permanent constraints:
 
   AGENTS.md:3
     "Never use TypeScript in this repo."
     → absolute rule with no stated condition; unchanged for 412 days
 ```
 
-It is a heuristic, not a verdict. If it finds nothing, that is useful too.
+### 2. Create the store
 
----
-
-## The format
-
+```bash
+npx whynot-cli init
 ```
-.decisions/
-└── 0001-session-not-redis.md
+
+This creates `.decisions/` and adds `*.md text eol=lf` to `.gitattributes`.
+
+### 3. Record a rejection
+
+```bash
+npx whynot-cli add \
+  --title "session 不存 Redis" \
+  --why "us-east 故障时读延迟 8s，SLO 要求 p99 < 500ms" \
+  --type rejected \
+  --revisit "Redis 支持跨区域强一致时" \
+  --evidence pr:412 \
+  --tags infra,session
 ```
 
 ```markdown
 ---
 id: 0001
 title: session 不存 Redis
-type: rejected            # rejected | decision | constraint
-status: live              # live | retired
-created: 2026-10-14
-expires_on: 2027-01-12
+type: rejected
+status: live
+created: 2026-09-21
+expires_on: 2026-12-20
 revisit_when: "Redis 支持跨区域强一致时"
 evidence:
   - "pr:412"
@@ -161,79 +140,126 @@ tags: [infra, session]
 试过 Redis + 单写区域。us-east 故障时读延迟飙到 8s，SLO 要求 p99 < 500ms。
 ```
 
-`rejected` entries are the valuable ones. They are the only kind that cannot be
-recovered from the code.
+### 4. Give it to your agent
 
-### Expiry
+Add the MCP server:
 
-Every entry expires: 90 days for a rejection, 180 for a decision, 365 for a
-constraint.
-
-When an entry expires it **stops being shown to the agent**. It is not deleted.
-`whynot stale` lists it, and you either renew it or retire it.
-
-This is the whole safety mechanism. An expired entry is invisible, because
-telling an agent "this is old, be skeptical" was tested and does not work.
-
-If something genuinely never expires, write `expires_on: never`. It should be
-rare, and it should be a deliberate decision.
-
----
-
-## Why this shape
-
-- **Markdown in git, not a database.** You can read it, diff it, review it,
-  revert it. If this tool disappears tomorrow, `grep` still works.
-- **No vector store, no embeddings, no model call when writing.** Each of those
-  is a failure mode we saw in existing tools: index staleness, write-path cost,
-  and results nobody can audit.
-- **Expiry is the default.** This is the part that differs from every other
-  memory tool. See [docs/validation.md](docs/validation.md) for the experiment.
-- **The format works without the tool.** The agent can read `.decisions/`
-  directly if MCP is unavailable. This was observed, not just designed.
-
----
-
-## What this is not
-
-- Not a vector database or a retrieval engine.
-- Not a hosted service. Your reasoning about your own codebase stays on your
-  machine.
-- Not a replacement for `AGENTS.md`. That tells the agent how to behave; this
-  records what has already been settled.
-- Not automatic. If nobody records anything, it does nothing.
-
----
-
-## Cross-platform notes
-
-Tested on Windows, macOS, and Linux.
-
-- `init` writes `*.md text eol=lf` to `.gitattributes`. Without it, Windows
-  checkouts write CRLF and every diff shows the whole file as changed.
-- Filenames are slugged to `[a-z0-9]` plus CJK. Windows forbids
-  `\ / : * ? " < > |` and both Windows and macOS are case-insensitive, so
-  filenames that work on Linux can break elsewhere.
-- No daemon and no file watching. The tool runs when it is called.
-- If you use non-ASCII filenames, run `git config core.quotepath false`.
-
----
-
-## Verify it yourself
-
-```bash
-npm test                         # 29 tests, no dependencies
-node experiments/e3/run.mjs      # the statistical-power experiment
-node experiments/e4/run.mjs      # the age / expiry experiment
-node experiments/e5/run.mjs      # a real agent across real sessions
+```json
+{
+  "mcpServers": {
+    "whynot": {
+      "command": "npx",
+      "args": ["-y", "whynot-cli", "mcp"]
+    }
+  }
+}
 ```
 
-See [`experiments/README.md`](experiments/README.md) for all six and for the
-conventions they follow.
+Then paste the block from [`AGENTS.snippet.md`](AGENTS.snippet.md) into your
+`AGENTS.md` or `CLAUDE.md`. The MCP server gives the agent the tools; the
+snippet is what makes it actually use them.
 
-The experiments call models through an OpenAI-compatible endpoint. Set
-`MAGPIE_URL` or edit the gateway constant at the top of each script. They are
-not part of the tool; they are how we checked the claims.
+> **If MCP is unavailable, the format still works.** `.decisions/` is plain
+> Markdown, so the agent can read and grep it directly. This was observed in the
+> real-agent test, not assumed.
+
+---
+
+## How it works
+
+### Every entry expires
+
+| Type | Default lifetime |
+|---|---|
+| `rejected` | 90 days |
+| `decision` | 180 days |
+| `constraint` | 365 days |
+
+When an entry lapses it **stops reaching your agent**. Not annotated, not
+warned about — absent. `whynot stale` lists it, and you either renew it or
+retire it.
+
+This is the core of the design. Telling an agent "this note is old, be
+skeptical" was tested and does not work. Removing the note from view does.
+
+### Three entry types
+
+| Type | Use it for |
+|---|---|
+| **`rejected`** | An approach you tried and abandoned. The most valuable kind — nothing else in the repository remembers it. |
+| `decision` | A choice between viable options, with the reason |
+| `constraint` | A hard requirement the project must satisfy |
+
+### Written for humans, by design
+
+- **Markdown in git.** Read it, diff it, review it, revert it. If this tool
+  disappears, `grep` still works.
+- **No vector store, no embeddings, no model call on write.** Each of those is
+  a failure mode: index staleness, write-path cost, and results nobody can
+  audit.
+- **No daemon, no telemetry, no hosted service.** Your reasoning about your own
+  codebase stays on your machine.
+
+---
+
+## What the evidence says
+
+Six experiments, three model families, mostly n=20 per cell.
+
+| Question | Result |
+|---|---|
+| Does the age of a decision matter? | **No.** 30 days and 7 years were obeyed at the same rate (0/12 each). Expired → 12/12. |
+| Does recording a rejection change the answer? | **Yes.** 78–87 percentage points, p < 0.0001. |
+| Does an irrelevant record distort unrelated work? | **No.** 0/30. |
+| Does a real agent use it across sessions? | **Yes.** Codex respected the decision in 9/9 sessions. |
+
+Two qualifications worth knowing before you install:
+
+- **About one in five responses resisted a stale record** — by attacking its
+  stated reason. A reason that names a *condition* ("the team did not know
+  TypeScript") invites re-checking; one that states a *property* ("this project
+  changes constantly") does not.
+- **With real code in context, some agents infer the answer from the repository**
+  and ignore the record. Records matter most for what code cannot express: the
+  option you rejected.
+
+Full results, methods, and reproduction scripts: [`docs/findings.md`](docs/findings.md).
+
+---
+
+## Docs
+
+| | |
+|---|---|
+| [Design](docs/design.md) | Why the tool looks like this |
+| [Findings](docs/findings.md) | Every experiment, what it found, what it did not |
+| [Validation](docs/validation.md) | Index of the detailed write-ups |
+| [Pre-registration](docs/preregistration.md) | Decision rules fixed before the data |
+| [Contributing](CONTRIBUTING.md) | The four design constraints that are not negotiable |
+| [AGENTS snippet](AGENTS.snippet.md) | The block that makes your agent use this |
+
+---
+
+## CLI reference
+
+```
+whynot init                     Create .decisions/ and the .gitattributes rule
+whynot add --title T --why W    Record an entry
+      [--type rejected|decision|constraint]
+      [--revisit "condition"]   When to reconsider
+      [--ttl N]                 Days until it expires
+      [--expires never]         Explicitly permanent
+      [--evidence pr:412]       Repeatable
+      [--tags infra,session]
+whynot list [--all]             List live entries
+whynot check "<query>"          Show live entries matching a query
+whynot stale                    Entries needing a human decision
+whynot renew <id> [--days N]    Extend an entry's life
+whynot retire <id>              Archive an entry (never deletes)
+whynot audit [--days N]         Scan agent config files (read-only)
+whynot doctor                   Validate the store
+whynot mcp                      Run the MCP server on stdio
+```
 
 ---
 
@@ -244,4 +270,6 @@ There is nothing to upsell you.
 
 ---
 
-[中文说明](README.zh-CN.md) · [Design](docs/design.md) · [Validation](docs/validation.md)
+<p align="center">
+  <sub><a href="README.zh-CN.md">简体中文</a> · <a href="https://github.com/Stakenshake/whynot">GitHub</a> · <a href="https://www.npmjs.com/package/whynot-cli">npm</a></sub>
+</p>
