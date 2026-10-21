@@ -1,6 +1,6 @@
 {
   "name": "whynot-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Record what you ruled out, and why, so your coding agent stops re-suggesting it.",
   "type": "module",
   "author": "Stakenshake",
