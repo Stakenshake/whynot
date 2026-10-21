@@ -1,0 +1,750 @@
+{
+  "rows": [
+    {
+      "cond": "C0",
+      "model": "gpt-6.1-sol",
+      "run": 0,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C0",
+      "model": "gpt-6.1-sol",
+      "run": 1,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C0",
+      "model": "gpt-6.1-sol",
+      "run": 2,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C0",
+      "model": "gpt-6.1-sol",
+      "run": 3,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C0",
+      "model": "gpt-6.1-sol",
+      "run": 4,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C0",
+      "model": "gpt-6.1-sol",
+      "run": 5,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C0",
+      "model": "gpt-6.1-sol",
+      "run": 6,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C0",
+      "model": "gpt-6.1-sol",
+      "run": 7,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C0",
+      "model": "gpt-6.1-sol",
+      "run": 8,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C0",
+      "model": "gpt-6.1-sol",
+      "run": 9,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C0",
+      "model": "gpt-6.1-sol",
+      "run": 10,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C0",
+      "model": "gpt-6.1-sol",
+      "run": 11,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C0",
+      "model": "ds-v4.1-flash",
+      "run": 0,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C0",
+      "model": "ds-v4.1-flash",
+      "run": 1,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C0",
+      "model": "ds-v4.1-flash",
+      "run": 2,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C0",
+      "model": "ds-v4.1-flash",
+      "run": 3,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C0",
+      "model": "ds-v4.1-flash",
+      "run": 4,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C0",
+      "model": "ds-v4.1-flash",
+      "run": 5,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C0",
+      "model": "ds-v4.1-flash",
+      "run": 6,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C0",
+      "model": "ds-v4.1-flash",
+      "run": 7,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C0",
+      "model": "ds-v4.1-flash",
+      "run": 8,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C0",
+      "model": "ds-v4.1-flash",
+      "run": 9,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C0",
+      "model": "ds-v4.1-flash",
+      "run": 10,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C0",
+      "model": "ds-v4.1-flash",
+      "run": 11,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "gpt-6.1-sol",
+      "run": 0,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "gpt-6.1-sol",
+      "run": 1,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "gpt-6.1-sol",
+      "run": 2,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "gpt-6.1-sol",
+      "run": 3,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "gpt-6.1-sol",
+      "run": 4,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "gpt-6.1-sol",
+      "run": 5,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "gpt-6.1-sol",
+      "run": 6,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "gpt-6.1-sol",
+      "run": 7,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "gpt-6.1-sol",
+      "run": 8,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "gpt-6.1-sol",
+      "run": 9,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "gpt-6.1-sol",
+      "run": 10,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "gpt-6.1-sol",
+      "run": 11,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "ds-v4.1-flash",
+      "run": 0,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "ds-v4.1-flash",
+      "run": 1,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "ds-v4.1-flash",
+      "run": 2,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "ds-v4.1-flash",
+      "run": 3,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "ds-v4.1-flash",
+      "run": 4,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "ds-v4.1-flash",
+      "run": 5,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "ds-v4.1-flash",
+      "run": 6,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "ds-v4.1-flash",
+      "run": 7,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "ds-v4.1-flash",
+      "run": 8,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "ds-v4.1-flash",
+      "run": 9,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "ds-v4.1-flash",
+      "run": 10,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C1",
+      "model": "ds-v4.1-flash",
+      "run": 11,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "gpt-6.1-sol",
+      "run": 0,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "gpt-6.1-sol",
+      "run": 1,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "gpt-6.1-sol",
+      "run": 2,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "gpt-6.1-sol",
+      "run": 3,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "gpt-6.1-sol",
+      "run": 4,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "gpt-6.1-sol",
+      "run": 5,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "gpt-6.1-sol",
+      "run": 6,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "gpt-6.1-sol",
+      "run": 7,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "gpt-6.1-sol",
+      "run": 8,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "gpt-6.1-sol",
+      "run": 9,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "gpt-6.1-sol",
+      "run": 10,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "gpt-6.1-sol",
+      "run": 11,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "ds-v4.1-flash",
+      "run": 0,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "ds-v4.1-flash",
+      "run": 1,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "ds-v4.1-flash",
+      "run": 2,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "ds-v4.1-flash",
+      "run": 3,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "ds-v4.1-flash",
+      "run": 4,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "ds-v4.1-flash",
+      "run": 5,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "ds-v4.1-flash",
+      "run": 6,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "ds-v4.1-flash",
+      "run": 7,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "ds-v4.1-flash",
+      "run": 8,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "ds-v4.1-flash",
+      "run": 9,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "ds-v4.1-flash",
+      "run": 10,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C2",
+      "model": "ds-v4.1-flash",
+      "run": 11,
+      "verdict": "recommends",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "gpt-6.1-sol",
+      "run": 0,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "gpt-6.1-sol",
+      "run": 1,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "gpt-6.1-sol",
+      "run": 2,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "gpt-6.1-sol",
+      "run": 3,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "gpt-6.1-sol",
+      "run": 4,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "gpt-6.1-sol",
+      "run": 5,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "gpt-6.1-sol",
+      "run": 6,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "gpt-6.1-sol",
+      "run": 7,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "gpt-6.1-sol",
+      "run": 8,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "gpt-6.1-sol",
+      "run": 9,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "gpt-6.1-sol",
+      "run": 10,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "gpt-6.1-sol",
+      "run": 11,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "ds-v4.1-flash",
+      "run": 0,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "ds-v4.1-flash",
+      "run": 1,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "ds-v4.1-flash",
+      "run": 2,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "ds-v4.1-flash",
+      "run": 3,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "ds-v4.1-flash",
+      "run": 4,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "ds-v4.1-flash",
+      "run": 5,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "ds-v4.1-flash",
+      "run": 6,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "ds-v4.1-flash",
+      "run": 7,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "ds-v4.1-flash",
+      "run": 8,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "ds-v4.1-flash",
+      "run": 9,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "ds-v4.1-flash",
+      "run": 10,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    },
+    {
+      "cond": "C3",
+      "model": "ds-v4.1-flash",
+      "run": 11,
+      "verdict": "excludes",
+      "judge": "opencode-go/claude-haiku-5-5"
+    }
+  ],
+  "summary": {
+    "C0": {
+      "cells": [
+        {
+          "model": "gpt-6.1-sol",
+          "n": 12,
+          "events": 10
+        },
+        {
+          "model": "ds-v4.1-flash",
+          "n": 12,
+          "events": 12
+        }
+      ],
+      "n": 24,
+      "events": 22
+    },
+    "C1": {
+      "cells": [
+        {
+          "model": "gpt-6.1-sol",
+          "n": 12,
+          "events": 0
+        },
+        {
+          "model": "ds-v4.1-flash",
+          "n": 12,
+          "events": 0
+        }
+      ],
+      "n": 24,
+      "events": 0
+    },
+    "C2": {
+      "cells": [
+        {
+          "model": "gpt-6.1-sol",
+          "n": 12,
+          "events": 0
+        },
+        {
+          "model": "ds-v4.1-flash",
+          "n": 12,
+          "events": 10
+        }
+      ],
+      "n": 24,
+      "events": 10
+    },
+    "C3": {
+      "cells": [
+        {
+          "model": "gpt-6.1-sol",
+          "n": 12,
+          "events": 0
+        },
+        {
+          "model": "ds-v4.1-flash",
+          "n": 12,
+          "events": 0
+        }
+      ],
+      "n": 24,
+      "events": 0
+    }
+  },
+  "rates": {
+    "c0": 0.9166666666666666,
+    "c1": 0,
+    "c2": 0.4166666666666667,
+    "c3": 0
+  },
+  "decision": "H3 NOT SUPPORTED — the effect survives code context. Claim holds.",
+  "errors": 0
+}

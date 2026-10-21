@@ -1,0 +1,82 @@
+[
+  {
+    "id": "E0-001",
+    "assistantLabel": "excludes_redis"
+  },
+  {
+    "id": "E0-003",
+    "assistantLabel": "excludes_ts"
+  },
+  {
+    "id": "E0-009",
+    "assistantLabel": "recommends_ts"
+  },
+  {
+    "id": "E0-010",
+    "assistantLabel": "excludes_redis"
+  },
+  {
+    "id": "E0-011",
+    "assistantLabel": "recommends_redis"
+  },
+  {
+    "id": "E0-012",
+    "assistantLabel": "recommends_ts"
+  },
+  {
+    "id": "E0-013",
+    "assistantLabel": "excludes_ts"
+  },
+  {
+    "id": "E0-018",
+    "assistantLabel": "recommends_ts"
+  },
+  {
+    "id": "E0-022",
+    "assistantLabel": "excludes_ts"
+  },
+  {
+    "id": "E0-023",
+    "assistantLabel": "excludes_ts"
+  },
+  {
+    "id": "E0-026",
+    "assistantLabel": "excludes_redis"
+  },
+  {
+    "id": "E0-027",
+    "assistantLabel": "recommends_ts"
+  },
+  {
+    "id": "E0-040",
+    "assistantLabel": "recommends_ts"
+  },
+  {
+    "id": "E0-046",
+    "assistantLabel": "excludes_ts"
+  },
+  {
+    "id": "E0-049",
+    "assistantLabel": "recommends_ts"
+  },
+  {
+    "id": "E0-050",
+    "assistantLabel": "excludes_ts"
+  },
+  {
+    "id": "E0-053",
+    "assistantLabel": "recommends_ts"
+  },
+  {
+    "id": "E0-054",
+    "assistantLabel": "unclear"
+  },
+  {
+    "id": "E0-058",
+    "assistantLabel": "recommends_ts"
+  },
+  {
+    "id": "E0-061",
+    "assistantLabel": "unclear"
+  }
+]

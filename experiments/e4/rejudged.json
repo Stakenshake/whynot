@@ -1,0 +1,1346 @@
+[
+  {
+    "file": "e4-D0-run0-gpt-6.1-sol-1792559878854.md",
+    "cond": "D0",
+    "model": "gpt-6.1-sol",
+    "run": 0,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D0-run0-haiku-5.5-1792559937404.md",
+    "cond": "D0",
+    "model": "haiku-5.5",
+    "run": 0,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D0-run1-gpt-6.1-sol-1792559843011.md",
+    "cond": "D0",
+    "model": "gpt-6.1-sol",
+    "run": 1,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D0-run1-haiku-5.5-1792559936835.md",
+    "cond": "D0",
+    "model": "haiku-5.5",
+    "run": 1,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D0-run10-gpt-6.1-sol-1792559915074.md",
+    "cond": "D0",
+    "model": "gpt-6.1-sol",
+    "run": 10,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D0-run10-haiku-5.5-1792559952990.md",
+    "cond": "D0",
+    "model": "haiku-5.5",
+    "run": 10,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D0-run11-gpt-6.1-sol-1792559918517.md",
+    "cond": "D0",
+    "model": "gpt-6.1-sol",
+    "run": 11,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D0-run11-haiku-5.5-1792559952984.md",
+    "cond": "D0",
+    "model": "haiku-5.5",
+    "run": 11,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D0-run2-gpt-6.1-sol-1792559876681.md",
+    "cond": "D0",
+    "model": "gpt-6.1-sol",
+    "run": 2,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D0-run2-haiku-5.5-1792559935017.md",
+    "cond": "D0",
+    "model": "haiku-5.5",
+    "run": 2,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D0-run3-gpt-6.1-sol-1792559869254.md",
+    "cond": "D0",
+    "model": "gpt-6.1-sol",
+    "run": 3,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D0-run3-haiku-5.5-1792559933148.md",
+    "cond": "D0",
+    "model": "haiku-5.5",
+    "run": 3,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D0-run4-gpt-6.1-sol-1792559871161.md",
+    "cond": "D0",
+    "model": "gpt-6.1-sol",
+    "run": 4,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D0-run4-haiku-5.5-1792559935020.md",
+    "cond": "D0",
+    "model": "haiku-5.5",
+    "run": 4,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D0-run5-gpt-6.1-sol-1792559875004.md",
+    "cond": "D0",
+    "model": "gpt-6.1-sol",
+    "run": 5,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D0-run5-haiku-5.5-1792559934329.md",
+    "cond": "D0",
+    "model": "haiku-5.5",
+    "run": 5,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D0-run6-gpt-6.1-sol-1792559902761.md",
+    "cond": "D0",
+    "model": "gpt-6.1-sol",
+    "run": 6,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D0-run6-haiku-5.5-1792559952966.md",
+    "cond": "D0",
+    "model": "haiku-5.5",
+    "run": 6,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D0-run7-gpt-6.1-sol-1792559910130.md",
+    "cond": "D0",
+    "model": "gpt-6.1-sol",
+    "run": 7,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D0-run7-haiku-5.5-1792559950195.md",
+    "cond": "D0",
+    "model": "haiku-5.5",
+    "run": 7,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D0-run8-gpt-6.1-sol-1792559910119.md",
+    "cond": "D0",
+    "model": "gpt-6.1-sol",
+    "run": 8,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D0-run8-haiku-5.5-1792559953375.md",
+    "cond": "D0",
+    "model": "haiku-5.5",
+    "run": 8,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D0-run9-gpt-6.1-sol-1792559911978.md",
+    "cond": "D0",
+    "model": "gpt-6.1-sol",
+    "run": 9,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D0-run9-haiku-5.5-1792559952971.md",
+    "cond": "D0",
+    "model": "haiku-5.5",
+    "run": 9,
+    "ageDays": null,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D1-run0-gpt-6.1-sol-1792559979453.md",
+    "cond": "D1",
+    "model": "gpt-6.1-sol",
+    "run": 0,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D1-run0-haiku-5.5-1792560033715.md",
+    "cond": "D1",
+    "model": "haiku-5.5",
+    "run": 0,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D1-run1-gpt-6.1-sol-1792559985459.md",
+    "cond": "D1",
+    "model": "gpt-6.1-sol",
+    "run": 1,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D1-run1-haiku-5.5-1792560034968.md",
+    "cond": "D1",
+    "model": "haiku-5.5",
+    "run": 1,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D1-run10-gpt-6.1-sol-1792560015465.md",
+    "cond": "D1",
+    "model": "gpt-6.1-sol",
+    "run": 10,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D1-run10-haiku-5.5-1792560047535.md",
+    "cond": "D1",
+    "model": "haiku-5.5",
+    "run": 10,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D1-run11-gpt-6.1-sol-1792560016786.md",
+    "cond": "D1",
+    "model": "gpt-6.1-sol",
+    "run": 11,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D1-run11-haiku-5.5-1792560049568.md",
+    "cond": "D1",
+    "model": "haiku-5.5",
+    "run": 11,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D1-run2-gpt-6.1-sol-1792559983242.md",
+    "cond": "D1",
+    "model": "gpt-6.1-sol",
+    "run": 2,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D1-run2-haiku-5.5-1792560032285.md",
+    "cond": "D1",
+    "model": "haiku-5.5",
+    "run": 2,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D1-run3-gpt-6.1-sol-1792559983111.md",
+    "cond": "D1",
+    "model": "gpt-6.1-sol",
+    "run": 3,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D1-run3-haiku-5.5-1792560032556.md",
+    "cond": "D1",
+    "model": "haiku-5.5",
+    "run": 3,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D1-run4-gpt-6.1-sol-1792559981713.md",
+    "cond": "D1",
+    "model": "gpt-6.1-sol",
+    "run": 4,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D1-run4-haiku-5.5-1792560032550.md",
+    "cond": "D1",
+    "model": "haiku-5.5",
+    "run": 4,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D1-run5-gpt-6.1-sol-1792559985884.md",
+    "cond": "D1",
+    "model": "gpt-6.1-sol",
+    "run": 5,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D1-run5-haiku-5.5-1792560032561.md",
+    "cond": "D1",
+    "model": "haiku-5.5",
+    "run": 5,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D1-run6-gpt-6.1-sol-1792560010284.md",
+    "cond": "D1",
+    "model": "gpt-6.1-sol",
+    "run": 6,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D1-run6-haiku-5.5-1792560046784.md",
+    "cond": "D1",
+    "model": "haiku-5.5",
+    "run": 6,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D1-run7-gpt-6.1-sol-1792560012710.md",
+    "cond": "D1",
+    "model": "gpt-6.1-sol",
+    "run": 7,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D1-run7-haiku-5.5-1792560047197.md",
+    "cond": "D1",
+    "model": "haiku-5.5",
+    "run": 7,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D1-run8-gpt-6.1-sol-1792560011104.md",
+    "cond": "D1",
+    "model": "gpt-6.1-sol",
+    "run": 8,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D1-run8-haiku-5.5-1792560047888.md",
+    "cond": "D1",
+    "model": "haiku-5.5",
+    "run": 8,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D1-run9-gpt-6.1-sol-1792560017436.md",
+    "cond": "D1",
+    "model": "gpt-6.1-sol",
+    "run": 9,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D1-run9-haiku-5.5-1792560047993.md",
+    "cond": "D1",
+    "model": "haiku-5.5",
+    "run": 9,
+    "ageDays": 30,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run0-gpt-6.1-sol-1792560090604.md",
+    "cond": "D2",
+    "model": "gpt-6.1-sol",
+    "run": 0,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run0-haiku-5.5-1792560182868.md",
+    "cond": "D2",
+    "model": "haiku-5.5",
+    "run": 0,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run1-gpt-6.1-sol-1792560092509.md",
+    "cond": "D2",
+    "model": "gpt-6.1-sol",
+    "run": 1,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run1-haiku-5.5-1792560181389.md",
+    "cond": "D2",
+    "model": "haiku-5.5",
+    "run": 1,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run10-gpt-6.1-sol-1792560142584.md",
+    "cond": "D2",
+    "model": "gpt-6.1-sol",
+    "run": 10,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run10-haiku-5.5-1792560218831.md",
+    "cond": "D2",
+    "model": "haiku-5.5",
+    "run": 10,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run11-gpt-6.1-sol-1792560147285.md",
+    "cond": "D2",
+    "model": "gpt-6.1-sol",
+    "run": 11,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run11-haiku-5.5-1792560217634.md",
+    "cond": "D2",
+    "model": "haiku-5.5",
+    "run": 11,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run2-gpt-6.1-sol-1792560091921.md",
+    "cond": "D2",
+    "model": "gpt-6.1-sol",
+    "run": 2,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run2-haiku-5.5-1792560181591.md",
+    "cond": "D2",
+    "model": "haiku-5.5",
+    "run": 2,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run3-gpt-6.1-sol-1792560091583.md",
+    "cond": "D2",
+    "model": "gpt-6.1-sol",
+    "run": 3,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run3-haiku-5.5-1792560181867.md",
+    "cond": "D2",
+    "model": "haiku-5.5",
+    "run": 3,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run4-gpt-6.1-sol-1792560090299.md",
+    "cond": "D2",
+    "model": "gpt-6.1-sol",
+    "run": 4,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run4-haiku-5.5-1792560182518.md",
+    "cond": "D2",
+    "model": "haiku-5.5",
+    "run": 4,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run5-gpt-6.1-sol-1792560092650.md",
+    "cond": "D2",
+    "model": "gpt-6.1-sol",
+    "run": 5,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run5-haiku-5.5-1792560183933.md",
+    "cond": "D2",
+    "model": "haiku-5.5",
+    "run": 5,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run6-gpt-6.1-sol-1792560143805.md",
+    "cond": "D2",
+    "model": "gpt-6.1-sol",
+    "run": 6,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run6-haiku-5.5-1792560217273.md",
+    "cond": "D2",
+    "model": "haiku-5.5",
+    "run": 6,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run7-gpt-6.1-sol-1792560146339.md",
+    "cond": "D2",
+    "model": "gpt-6.1-sol",
+    "run": 7,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run7-haiku-5.5-1792560216935.md",
+    "cond": "D2",
+    "model": "haiku-5.5",
+    "run": 7,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run8-gpt-6.1-sol-1792560145526.md",
+    "cond": "D2",
+    "model": "gpt-6.1-sol",
+    "run": 8,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run8-haiku-5.5-1792560216151.md",
+    "cond": "D2",
+    "model": "haiku-5.5",
+    "run": 8,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run9-gpt-6.1-sol-1792560142002.md",
+    "cond": "D2",
+    "model": "gpt-6.1-sol",
+    "run": 9,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D2-run9-haiku-5.5-1792560217422.md",
+    "cond": "D2",
+    "model": "haiku-5.5",
+    "run": 9,
+    "ageDays": 182,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run0-gpt-6.1-sol-1792560270384.md",
+    "cond": "D3",
+    "model": "gpt-6.1-sol",
+    "run": 0,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run0-haiku-5.5-1792560360139.md",
+    "cond": "D3",
+    "model": "haiku-5.5",
+    "run": 0,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run1-gpt-6.1-sol-1792560272560.md",
+    "cond": "D3",
+    "model": "gpt-6.1-sol",
+    "run": 1,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run1-haiku-5.5-1792560359681.md",
+    "cond": "D3",
+    "model": "haiku-5.5",
+    "run": 1,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run10-gpt-6.1-sol-1792560324514.md",
+    "cond": "D3",
+    "model": "gpt-6.1-sol",
+    "run": 10,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run10-haiku-5.5-1792560395373.md",
+    "cond": "D3",
+    "model": "haiku-5.5",
+    "run": 10,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run11-gpt-6.1-sol-1792560320500.md",
+    "cond": "D3",
+    "model": "gpt-6.1-sol",
+    "run": 11,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run11-haiku-5.5-1792560396341.md",
+    "cond": "D3",
+    "model": "haiku-5.5",
+    "run": 11,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run2-gpt-6.1-sol-1792560270391.md",
+    "cond": "D3",
+    "model": "gpt-6.1-sol",
+    "run": 2,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run2-haiku-5.5-1792560360134.md",
+    "cond": "D3",
+    "model": "haiku-5.5",
+    "run": 2,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run3-gpt-6.1-sol-1792560272534.md",
+    "cond": "D3",
+    "model": "gpt-6.1-sol",
+    "run": 3,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run3-haiku-5.5-1792560361037.md",
+    "cond": "D3",
+    "model": "haiku-5.5",
+    "run": 3,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run4-gpt-6.1-sol-1792560270482.md",
+    "cond": "D3",
+    "model": "gpt-6.1-sol",
+    "run": 4,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run4-haiku-5.5-1792560358562.md",
+    "cond": "D3",
+    "model": "haiku-5.5",
+    "run": 4,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run5-gpt-6.1-sol-1792560271332.md",
+    "cond": "D3",
+    "model": "gpt-6.1-sol",
+    "run": 5,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run5-haiku-5.5-1792560359537.md",
+    "cond": "D3",
+    "model": "haiku-5.5",
+    "run": 5,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run6-gpt-6.1-sol-1792560321761.md",
+    "cond": "D3",
+    "model": "gpt-6.1-sol",
+    "run": 6,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run6-haiku-5.5-1792560395367.md",
+    "cond": "D3",
+    "model": "haiku-5.5",
+    "run": 6,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run7-gpt-6.1-sol-1792560317511.md",
+    "cond": "D3",
+    "model": "gpt-6.1-sol",
+    "run": 7,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run7-haiku-5.5-1792560392741.md",
+    "cond": "D3",
+    "model": "haiku-5.5",
+    "run": 7,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run8-gpt-6.1-sol-1792560320145.md",
+    "cond": "D3",
+    "model": "gpt-6.1-sol",
+    "run": 8,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run8-haiku-5.5-1792560395114.md",
+    "cond": "D3",
+    "model": "haiku-5.5",
+    "run": 8,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run9-gpt-6.1-sol-1792560321720.md",
+    "cond": "D3",
+    "model": "gpt-6.1-sol",
+    "run": 9,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D3-run9-haiku-5.5-1792560394980.md",
+    "cond": "D3",
+    "model": "haiku-5.5",
+    "run": 9,
+    "ageDays": 365,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run0-gpt-6.1-sol-1792560463318.md",
+    "cond": "D4",
+    "model": "gpt-6.1-sol",
+    "run": 0,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run0-haiku-5.5-1792560551308.md",
+    "cond": "D4",
+    "model": "haiku-5.5",
+    "run": 0,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run1-gpt-6.1-sol-1792560450353.md",
+    "cond": "D4",
+    "model": "gpt-6.1-sol",
+    "run": 1,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run1-haiku-5.5-1792560550227.md",
+    "cond": "D4",
+    "model": "haiku-5.5",
+    "run": 1,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run10-gpt-6.1-sol-1792560498356.md",
+    "cond": "D4",
+    "model": "gpt-6.1-sol",
+    "run": 10,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run10-haiku-5.5-1792560586717.md",
+    "cond": "D4",
+    "model": "haiku-5.5",
+    "run": 10,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run11-gpt-6.1-sol-1792560515571.md",
+    "cond": "D4",
+    "model": "gpt-6.1-sol",
+    "run": 11,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run11-haiku-5.5-1792560586721.md",
+    "cond": "D4",
+    "model": "haiku-5.5",
+    "run": 11,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run2-gpt-6.1-sol-1792560448519.md",
+    "cond": "D4",
+    "model": "gpt-6.1-sol",
+    "run": 2,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run2-haiku-5.5-1792560550729.md",
+    "cond": "D4",
+    "model": "haiku-5.5",
+    "run": 2,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run3-gpt-6.1-sol-1792560447552.md",
+    "cond": "D4",
+    "model": "gpt-6.1-sol",
+    "run": 3,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run3-haiku-5.5-1792560550734.md",
+    "cond": "D4",
+    "model": "haiku-5.5",
+    "run": 3,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run4-gpt-6.1-sol-1792560448119.md",
+    "cond": "D4",
+    "model": "gpt-6.1-sol",
+    "run": 4,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run4-haiku-5.5-1792560552483.md",
+    "cond": "D4",
+    "model": "haiku-5.5",
+    "run": 4,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run5-gpt-6.1-sol-1792560447627.md",
+    "cond": "D4",
+    "model": "gpt-6.1-sol",
+    "run": 5,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run5-haiku-5.5-1792560549022.md",
+    "cond": "D4",
+    "model": "haiku-5.5",
+    "run": 5,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run6-gpt-6.1-sol-1792560499143.md",
+    "cond": "D4",
+    "model": "gpt-6.1-sol",
+    "run": 6,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run6-haiku-5.5-1792560583509.md",
+    "cond": "D4",
+    "model": "haiku-5.5",
+    "run": 6,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run7-gpt-6.1-sol-1792560498535.md",
+    "cond": "D4",
+    "model": "gpt-6.1-sol",
+    "run": 7,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run7-haiku-5.5-1792560585786.md",
+    "cond": "D4",
+    "model": "haiku-5.5",
+    "run": 7,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run8-gpt-6.1-sol-1792560494149.md",
+    "cond": "D4",
+    "model": "gpt-6.1-sol",
+    "run": 8,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run8-haiku-5.5-1792560584395.md",
+    "cond": "D4",
+    "model": "haiku-5.5",
+    "run": 8,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run9-gpt-6.1-sol-1792560502174.md",
+    "cond": "D4",
+    "model": "gpt-6.1-sol",
+    "run": 9,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D4-run9-haiku-5.5-1792560585790.md",
+    "cond": "D4",
+    "model": "haiku-5.5",
+    "run": 9,
+    "ageDays": 1095,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run0-gpt-6.1-sol-1792560635317.md",
+    "cond": "D5",
+    "model": "gpt-6.1-sol",
+    "run": 0,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run0-haiku-5.5-1792560733898.md",
+    "cond": "D5",
+    "model": "haiku-5.5",
+    "run": 0,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run1-gpt-6.1-sol-1792560641351.md",
+    "cond": "D5",
+    "model": "gpt-6.1-sol",
+    "run": 1,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run1-haiku-5.5-1792560733908.md",
+    "cond": "D5",
+    "model": "haiku-5.5",
+    "run": 1,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run10-gpt-6.1-sol-1792560692635.md",
+    "cond": "D5",
+    "model": "gpt-6.1-sol",
+    "run": 10,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run10-haiku-5.5-1792560771440.md",
+    "cond": "D5",
+    "model": "haiku-5.5",
+    "run": 10,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run11-gpt-6.1-sol-1792560696394.md",
+    "cond": "D5",
+    "model": "gpt-6.1-sol",
+    "run": 11,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run11-haiku-5.5-1792560772616.md",
+    "cond": "D5",
+    "model": "haiku-5.5",
+    "run": 11,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run2-gpt-6.1-sol-1792560636967.md",
+    "cond": "D5",
+    "model": "gpt-6.1-sol",
+    "run": 2,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run2-haiku-5.5-1792560733777.md",
+    "cond": "D5",
+    "model": "haiku-5.5",
+    "run": 2,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run3-gpt-6.1-sol-1792560642106.md",
+    "cond": "D5",
+    "model": "gpt-6.1-sol",
+    "run": 3,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run3-haiku-5.5-1792560733915.md",
+    "cond": "D5",
+    "model": "haiku-5.5",
+    "run": 3,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run4-gpt-6.1-sol-1792560637303.md",
+    "cond": "D5",
+    "model": "gpt-6.1-sol",
+    "run": 4,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run4-haiku-5.5-1792560733832.md",
+    "cond": "D5",
+    "model": "haiku-5.5",
+    "run": 4,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run5-gpt-6.1-sol-1792560643376.md",
+    "cond": "D5",
+    "model": "gpt-6.1-sol",
+    "run": 5,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run5-haiku-5.5-1792560733872.md",
+    "cond": "D5",
+    "model": "haiku-5.5",
+    "run": 5,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run6-gpt-6.1-sol-1792560686043.md",
+    "cond": "D5",
+    "model": "gpt-6.1-sol",
+    "run": 6,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run6-haiku-5.5-1792560771532.md",
+    "cond": "D5",
+    "model": "haiku-5.5",
+    "run": 6,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run7-gpt-6.1-sol-1792560687667.md",
+    "cond": "D5",
+    "model": "gpt-6.1-sol",
+    "run": 7,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run7-haiku-5.5-1792560769501.md",
+    "cond": "D5",
+    "model": "haiku-5.5",
+    "run": 7,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run8-gpt-6.1-sol-1792560689893.md",
+    "cond": "D5",
+    "model": "gpt-6.1-sol",
+    "run": 8,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run8-haiku-5.5-1792560771014.md",
+    "cond": "D5",
+    "model": "haiku-5.5",
+    "run": 8,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run9-gpt-6.1-sol-1792560688476.md",
+    "cond": "D5",
+    "model": "gpt-6.1-sol",
+    "run": 9,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D5-run9-haiku-5.5-1792560768520.md",
+    "cond": "D5",
+    "model": "haiku-5.5",
+    "run": 9,
+    "ageDays": 2555,
+    "verdict": "excludes"
+  },
+  {
+    "file": "e4-D6-run0-gpt-6.1-sol-1792560831618.md",
+    "cond": "D6",
+    "model": "gpt-6.1-sol",
+    "run": 0,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D6-run0-haiku-5.5-1792560920151.md",
+    "cond": "D6",
+    "model": "haiku-5.5",
+    "run": 0,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D6-run1-gpt-6.1-sol-1792560830833.md",
+    "cond": "D6",
+    "model": "gpt-6.1-sol",
+    "run": 1,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D6-run1-haiku-5.5-1792560920143.md",
+    "cond": "D6",
+    "model": "haiku-5.5",
+    "run": 1,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D6-run10-gpt-6.1-sol-1792560887576.md",
+    "cond": "D6",
+    "model": "gpt-6.1-sol",
+    "run": 10,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D6-run10-haiku-5.5-1792560952484.md",
+    "cond": "D6",
+    "model": "haiku-5.5",
+    "run": 10,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D6-run11-gpt-6.1-sol-1792560884482.md",
+    "cond": "D6",
+    "model": "gpt-6.1-sol",
+    "run": 11,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D6-run11-haiku-5.5-1792560952474.md",
+    "cond": "D6",
+    "model": "haiku-5.5",
+    "run": 11,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D6-run2-gpt-6.1-sol-1792560828443.md",
+    "cond": "D6",
+    "model": "gpt-6.1-sol",
+    "run": 2,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D6-run2-haiku-5.5-1792560920699.md",
+    "cond": "D6",
+    "model": "haiku-5.5",
+    "run": 2,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D6-run3-gpt-6.1-sol-1792560829483.md",
+    "cond": "D6",
+    "model": "gpt-6.1-sol",
+    "run": 3,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D6-run3-haiku-5.5-1792560920523.md",
+    "cond": "D6",
+    "model": "haiku-5.5",
+    "run": 3,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D6-run4-gpt-6.1-sol-1792560832298.md",
+    "cond": "D6",
+    "model": "gpt-6.1-sol",
+    "run": 4,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D6-run4-haiku-5.5-1792560920693.md",
+    "cond": "D6",
+    "model": "haiku-5.5",
+    "run": 4,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D6-run5-gpt-6.1-sol-1792560826643.md",
+    "cond": "D6",
+    "model": "gpt-6.1-sol",
+    "run": 5,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D6-run5-haiku-5.5-1792560921359.md",
+    "cond": "D6",
+    "model": "haiku-5.5",
+    "run": 5,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D6-run6-gpt-6.1-sol-1792560882784.md",
+    "cond": "D6",
+    "model": "gpt-6.1-sol",
+    "run": 6,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D6-run6-haiku-5.5-1792560953393.md",
+    "cond": "D6",
+    "model": "haiku-5.5",
+    "run": 6,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D6-run7-gpt-6.1-sol-1792560882772.md",
+    "cond": "D6",
+    "model": "gpt-6.1-sol",
+    "run": 7,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D6-run7-haiku-5.5-1792560954376.md",
+    "cond": "D6",
+    "model": "haiku-5.5",
+    "run": 7,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D6-run8-gpt-6.1-sol-1792560883258.md",
+    "cond": "D6",
+    "model": "gpt-6.1-sol",
+    "run": 8,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D6-run8-haiku-5.5-1792560951743.md",
+    "cond": "D6",
+    "model": "haiku-5.5",
+    "run": 8,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D6-run9-gpt-6.1-sol-1792560882766.md",
+    "cond": "D6",
+    "model": "gpt-6.1-sol",
+    "run": 9,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  },
+  {
+    "file": "e4-D6-run9-haiku-5.5-1792560953398.md",
+    "cond": "D6",
+    "model": "haiku-5.5",
+    "run": 9,
+    "ageDays": 2555,
+    "verdict": "recommends"
+  }
+]

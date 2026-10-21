@@ -1,0 +1,2291 @@
+{
+  "rows": [
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 0,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 1,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 2,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 3,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 4,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 5,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 6,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 7,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 8,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 9,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 10,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 11,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 12,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 13,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 14,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 15,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 16,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 17,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 18,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 19,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 0,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 1,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 2,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 3,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 4,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 5,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 6,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 7,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 8,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 9,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 10,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 11,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 12,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 13,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 14,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 15,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 16,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 17,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 18,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 19,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 0,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 1,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 2,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 3,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 4,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 5,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 6,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 7,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 8,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 9,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 10,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 11,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 12,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 13,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 14,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 15,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 16,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 17,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 18,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 19,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "gpt-6.1-sol",
+      "run": 0,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "gpt-6.1-sol",
+      "run": 1,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "gpt-6.1-sol",
+      "run": 2,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "gpt-6.1-sol",
+      "run": 3,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "gpt-6.1-sol",
+      "run": 4,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "gpt-6.1-sol",
+      "run": 5,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "gpt-6.1-sol",
+      "run": 6,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "gpt-6.1-sol",
+      "run": 7,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "gpt-6.1-sol",
+      "run": 8,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "gpt-6.1-sol",
+      "run": 9,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "gpt-6.1-sol",
+      "run": 10,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "gpt-6.1-sol",
+      "run": 11,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "gpt-6.1-sol",
+      "run": 12,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "gpt-6.1-sol",
+      "run": 13,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "gpt-6.1-sol",
+      "run": 14,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "gpt-6.1-sol",
+      "run": 15,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "gpt-6.1-sol",
+      "run": 16,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "gpt-6.1-sol",
+      "run": 17,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "gpt-6.1-sol",
+      "run": 18,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "gpt-6.1-sol",
+      "run": 19,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "ds-v4.1-flash",
+      "run": 0,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "ds-v4.1-flash",
+      "run": 1,
+      "verdict": "unclear",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "ds-v4.1-flash",
+      "run": 2,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "ds-v4.1-flash",
+      "run": 3,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "ds-v4.1-flash",
+      "run": 4,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "ds-v4.1-flash",
+      "run": 5,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "ds-v4.1-flash",
+      "run": 6,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "ds-v4.1-flash",
+      "run": 7,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "ds-v4.1-flash",
+      "run": 8,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "ds-v4.1-flash",
+      "run": 9,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "ds-v4.1-flash",
+      "run": 10,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "ds-v4.1-flash",
+      "run": 11,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "ds-v4.1-flash",
+      "run": 12,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "ds-v4.1-flash",
+      "run": 13,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "ds-v4.1-flash",
+      "run": 14,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "ds-v4.1-flash",
+      "run": 15,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "ds-v4.1-flash",
+      "run": 16,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "ds-v4.1-flash",
+      "run": 17,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "ds-v4.1-flash",
+      "run": 18,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "ds-v4.1-flash",
+      "run": 19,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "haiku-5.5",
+      "run": 0,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "haiku-5.5",
+      "run": 1,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "haiku-5.5",
+      "run": 2,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "haiku-5.5",
+      "run": 3,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "haiku-5.5",
+      "run": 4,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "haiku-5.5",
+      "run": 5,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "haiku-5.5",
+      "run": 6,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "haiku-5.5",
+      "run": 7,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "haiku-5.5",
+      "run": 8,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "haiku-5.5",
+      "run": 9,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "haiku-5.5",
+      "run": 10,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "haiku-5.5",
+      "run": 11,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "haiku-5.5",
+      "run": 12,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "haiku-5.5",
+      "run": 13,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "haiku-5.5",
+      "run": 14,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "haiku-5.5",
+      "run": 15,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "haiku-5.5",
+      "run": 16,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "haiku-5.5",
+      "run": 17,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "haiku-5.5",
+      "run": 18,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3a",
+      "target": "Redis",
+      "cond": "treatment",
+      "model": "haiku-5.5",
+      "run": 19,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 0,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 1,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 2,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 3,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 4,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 5,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 6,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 7,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 8,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 9,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 10,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 11,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 12,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 13,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 14,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 15,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 16,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 17,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 18,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "gpt-6.1-sol",
+      "run": 19,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 0,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 1,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 2,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 3,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 4,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 5,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 6,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 7,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 8,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 9,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 10,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 11,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 12,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 13,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 14,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 15,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 16,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 17,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 18,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "ds-v4.1-flash",
+      "run": 19,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 0,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 1,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 2,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 3,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 4,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 5,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 6,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 7,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 8,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 9,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 10,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 11,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 12,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 13,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 14,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 15,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 16,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 17,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 18,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "control",
+      "model": "haiku-5.5",
+      "run": 19,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "gpt-6.1-sol",
+      "run": 0,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "gpt-6.1-sol",
+      "run": 1,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "gpt-6.1-sol",
+      "run": 2,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "gpt-6.1-sol",
+      "run": 3,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "gpt-6.1-sol",
+      "run": 4,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "gpt-6.1-sol",
+      "run": 5,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "gpt-6.1-sol",
+      "run": 6,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "gpt-6.1-sol",
+      "run": 7,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "gpt-6.1-sol",
+      "run": 8,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "gpt-6.1-sol",
+      "run": 9,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "gpt-6.1-sol",
+      "run": 10,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "gpt-6.1-sol",
+      "run": 11,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "gpt-6.1-sol",
+      "run": 12,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "gpt-6.1-sol",
+      "run": 13,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "gpt-6.1-sol",
+      "run": 14,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "gpt-6.1-sol",
+      "run": 15,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "gpt-6.1-sol",
+      "run": 16,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "gpt-6.1-sol",
+      "run": 17,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "gpt-6.1-sol",
+      "run": 18,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "gpt-6.1-sol",
+      "run": 19,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "ds-v4.1-flash",
+      "run": 0,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "ds-v4.1-flash",
+      "run": 1,
+      "verdict": "unclear",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "ds-v4.1-flash",
+      "run": 2,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "ds-v4.1-flash",
+      "run": 3,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "ds-v4.1-flash",
+      "run": 4,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "ds-v4.1-flash",
+      "run": 5,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "ds-v4.1-flash",
+      "run": 6,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "ds-v4.1-flash",
+      "run": 7,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "ds-v4.1-flash",
+      "run": 8,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "ds-v4.1-flash",
+      "run": 9,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "ds-v4.1-flash",
+      "run": 10,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "ds-v4.1-flash",
+      "run": 11,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "ds-v4.1-flash",
+      "run": 12,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "ds-v4.1-flash",
+      "run": 13,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "ds-v4.1-flash",
+      "run": 14,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "ds-v4.1-flash",
+      "run": 15,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "ds-v4.1-flash",
+      "run": 16,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "ds-v4.1-flash",
+      "run": 17,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "ds-v4.1-flash",
+      "run": 18,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "ds-v4.1-flash",
+      "run": 19,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "haiku-5.5",
+      "run": 0,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "haiku-5.5",
+      "run": 1,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "haiku-5.5",
+      "run": 2,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "haiku-5.5",
+      "run": 3,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "haiku-5.5",
+      "run": 4,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "haiku-5.5",
+      "run": 5,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "haiku-5.5",
+      "run": 6,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "haiku-5.5",
+      "run": 7,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "haiku-5.5",
+      "run": 8,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "haiku-5.5",
+      "run": 9,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "haiku-5.5",
+      "run": 10,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "haiku-5.5",
+      "run": 11,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "haiku-5.5",
+      "run": 12,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "haiku-5.5",
+      "run": 13,
+      "verdict": "recommends",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "haiku-5.5",
+      "run": 14,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "haiku-5.5",
+      "run": 15,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "haiku-5.5",
+      "run": 16,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "haiku-5.5",
+      "run": 17,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "haiku-5.5",
+      "run": 18,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    },
+    {
+      "exp": "E3b",
+      "target": "TypeScript",
+      "cond": "stale",
+      "model": "haiku-5.5",
+      "run": 19,
+      "verdict": "excludes",
+      "judgeUsed": "workbuddy-ai/deepseek-v4.1-flash"
+    }
+  ],
+  "report": {
+    "E3a": {
+      "perModel": [
+        {
+          "model": "gpt-6.1-sol",
+          "control": {
+            "n": 20,
+            "events": 20,
+            "errors": 0
+          },
+          "treatment": {
+            "n": 20,
+            "events": 0,
+            "errors": 0
+          },
+          "p": 1.4508889103849754e-11,
+          "riskDiff": -1
+        },
+        {
+          "model": "ds-v4.1-flash",
+          "control": {
+            "n": 20,
+            "events": 20,
+            "errors": 0
+          },
+          "treatment": {
+            "n": 20,
+            "events": 0,
+            "errors": 0
+          },
+          "p": 1.4508889103849754e-11,
+          "riskDiff": -1
+        },
+        {
+          "model": "haiku-5.5",
+          "control": {
+            "n": 20,
+            "events": 12,
+            "errors": 0
+          },
+          "treatment": {
+            "n": 20,
+            "events": 0,
+            "errors": 0
+          },
+          "p": 0.000045095150768120984,
+          "riskDiff": -0.6
+        }
+      ],
+      "pooled": {
+        "control": {
+          "n": 60,
+          "events": 52
+        },
+        "treatment": {
+          "n": 60,
+          "events": 0
+        },
+        "p": 1.2823080428465222e-12,
+        "riskDiff": -0.8666666666666667,
+        "decision": "MAIN CLAIM STANDS"
+      }
+    },
+    "E3b": {
+      "perModel": [
+        {
+          "model": "gpt-6.1-sol",
+          "control": {
+            "n": 20,
+            "events": 20,
+            "errors": 0
+          },
+          "treatment": {
+            "n": 20,
+            "events": 0,
+            "errors": 0
+          },
+          "p": 1.4508889103849754e-11,
+          "riskDiff": -1
+        },
+        {
+          "model": "ds-v4.1-flash",
+          "control": {
+            "n": 20,
+            "events": 20,
+            "errors": 0
+          },
+          "treatment": {
+            "n": 20,
+            "events": 6,
+            "errors": 0
+          },
+          "p": 0.0000033403815383792903,
+          "riskDiff": -0.7
+        },
+        {
+          "model": "haiku-5.5",
+          "control": {
+            "n": 20,
+            "events": 20,
+            "errors": 0
+          },
+          "treatment": {
+            "n": 20,
+            "events": 7,
+            "errors": 0
+          },
+          "p": 0.000012884328790891617,
+          "riskDiff": -0.65
+        }
+      ],
+      "pooled": {
+        "control": {
+          "n": 60,
+          "events": 60
+        },
+        "treatment": {
+          "n": 60,
+          "events": 13
+        },
+        "p": 1.813254716232205e-12,
+        "riskDiff": -0.7833333333333333,
+        "decision": "MAIN CLAIM STANDS"
+      }
+    }
+  },
+  "errors": 0
+}

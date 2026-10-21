@@ -1,0 +1,101 @@
+[
+  {
+    "cond": "M0",
+    "label": "fresh-single-turn",
+    "run": 0,
+    "verdict": "excludes",
+    "calledDecisionsCheck": true,
+    "readDecisionsDir": true,
+    "serverRegistered": true,
+    "inputTokens": 185336,
+    "commandErrors": 0
+  },
+  {
+    "cond": "M0",
+    "label": "fresh-single-turn",
+    "run": 1,
+    "verdict": "excludes",
+    "calledDecisionsCheck": true,
+    "readDecisionsDir": true,
+    "serverRegistered": true,
+    "inputTokens": 99174,
+    "commandErrors": 0
+  },
+  {
+    "cond": "M0",
+    "label": "fresh-single-turn",
+    "run": 2,
+    "verdict": "excludes",
+    "calledDecisionsCheck": false,
+    "readDecisionsDir": true,
+    "serverRegistered": true,
+    "inputTokens": 126643,
+    "commandErrors": 0
+  },
+  {
+    "cond": "M1",
+    "label": "new-session-same-repo",
+    "run": 0,
+    "verdict": "excludes",
+    "calledDecisionsCheck": true,
+    "readDecisionsDir": true,
+    "serverRegistered": true,
+    "inputTokens": 329898,
+    "commandErrors": 1
+  },
+  {
+    "cond": "M1",
+    "label": "new-session-same-repo",
+    "run": 1,
+    "verdict": "excludes",
+    "calledDecisionsCheck": false,
+    "readDecisionsDir": true,
+    "serverRegistered": true,
+    "inputTokens": 107941,
+    "commandErrors": 1
+  },
+  {
+    "cond": "M1",
+    "label": "new-session-same-repo",
+    "run": 2,
+    "verdict": "excludes",
+    "calledDecisionsCheck": true,
+    "readDecisionsDir": true,
+    "serverRegistered": true,
+    "inputTokens": 126777,
+    "commandErrors": 1
+  },
+  {
+    "cond": "M2",
+    "label": "unrelated-first",
+    "run": 0,
+    "verdict": "excludes",
+    "calledDecisionsCheck": false,
+    "readDecisionsDir": true,
+    "serverRegistered": true,
+    "inputTokens": 211706,
+    "commandErrors": 0
+  },
+  {
+    "cond": "M2",
+    "label": "unrelated-first",
+    "run": 1,
+    "verdict": "excludes",
+    "calledDecisionsCheck": true,
+    "readDecisionsDir": true,
+    "serverRegistered": true,
+    "inputTokens": 203070,
+    "commandErrors": 0
+  },
+  {
+    "cond": "M2",
+    "label": "unrelated-first",
+    "run": 2,
+    "verdict": "excludes",
+    "calledDecisionsCheck": true,
+    "readDecisionsDir": true,
+    "serverRegistered": true,
+    "inputTokens": 196835,
+    "commandErrors": 0
+  }
+]

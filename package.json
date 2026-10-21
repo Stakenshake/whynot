@@ -1,0 +1,66 @@
+{
+  "name": "whynot-cli",
+  "version": "0.1.0",
+  "description": "Record what you ruled out, and why, so your coding agent stops re-suggesting it.",
+  "type": "module",
+  "author": "Stakenshake",
+  "homepage": "https://github.com/Stakenshake/whynot#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stakenshake/whynot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Stakenshake/whynot/issues"
+  },
+  "bin": {
+    "whynot": "bin/whynot.js"
+  },
+  "exports": {
+    ".": "./src/index.js",
+    "./mcp": "./src/mcp.js",
+    "./audit": "./src/audit.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "docs/design.md",
+    "docs/design.zh-CN.md",
+    "docs/findings.md",
+    "docs/findings.zh-CN.md",
+    "docs/validation.md",
+    "docs/validation.zh-CN.md",
+    "docs/judge-calibration.md",
+    "docs/e1-code-context.md",
+    "docs/e2-false-obedience.md",
+    "docs/e3-power.md",
+    "docs/e4-dose-response.md",
+    "docs/e5-real-agent.md",
+    "docs/preregistration.md",
+    "AGENTS.snippet.md",
+    "AGENTS.snippet.zh-CN.md",
+    "README.md",
+    "README.zh-CN.md",
+    "CONTRIBUTING.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test \"test/*.test.js\"",
+    "mcp": "node bin/whynot.js mcp"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "coding-agents",
+    "claude-code",
+    "codex",
+    "context-engineering",
+    "decision-log",
+    "architecture-decision-record",
+    "adr"
+  ],
+  "license": "MIT",
+  "dependencies": {}
+}

@@ -1,0 +1,4 @@
+# whynot ships this into your repo.
+# Without it, Windows checkouts write CRLF into .decisions/*.md and every
+# diff shows the whole file as changed.
+*.md text eol=lf
