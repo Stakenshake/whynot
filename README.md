@@ -111,10 +111,10 @@ This creates `.decisions/` and adds `*.md text eol=lf` to `.gitattributes`.
 
 ```bash
 npx whynot-cli add \
-  --title "session 不存 Redis" \
-  --why "us-east 故障时读延迟 8s，SLO 要求 p99 < 500ms" \
+  --title "Sessions do not go in Redis" \
+  --why "Single-writer Redis took 8s to read during a us-east outage; the SLO requires p99 < 500ms" \
   --type rejected \
-  --revisit "Redis 支持跨区域强一致时" \
+  --revisit "Redis supports cross-region strong consistency" \
   --evidence pr:412 \
   --tags infra,session
 ```
@@ -122,22 +122,24 @@ npx whynot-cli add \
 ```markdown
 ---
 id: 0001
-title: session 不存 Redis
+title: Sessions do not go in Redis
 type: rejected
 status: live
 created: 2026-09-21
 expires_on: 2026-12-20
-revisit_when: "Redis 支持跨区域强一致时"
+revisit_when: "Redis supports cross-region strong consistency"
 evidence:
   - "pr:412"
 tags: [infra, session]
 ---
 
-## 结论
-不能把 session 存 Redis。
+## Conclusion
+Sessions must not be stored in Redis.
 
-## 为什么
-试过 Redis + 单写区域。us-east 故障时读延迟飙到 8s，SLO 要求 p99 < 500ms。
+## Why
+We tried Redis with a single writer region. During a us-east outage, reads took
+8 seconds; the SLO requires p99 < 500ms. The Postgres table approach was
+selected instead.
 ```
 
 ### 4. Give it to your agent
